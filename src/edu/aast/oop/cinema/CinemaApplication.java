@@ -14,6 +14,8 @@ public class CinemaApplication {
 
         Person emp1 = new Employee("Youssef", 1);
         Person emp2 = new Employee("Jamal", 2);
+        Person emp3 = new Employee("Emad", 3);
+
 
         Seat seatA1 = new Seat("A", 1);
         Seat seatA2 = new Seat("A", 2);
